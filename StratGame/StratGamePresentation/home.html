@@ -1,0 +1,62 @@
+<html>
+
+<head>
+    <style src="style.css"></style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    
+    <div style="margin:auto">
+        <h1 id="welcome">Game</h1>
+        <table id="map" border="1">
+            <tr>
+                <td id="20"><img src="src/images/earth-tile-sm.jpg"></td>
+                <td id="21"><img src="src/images/earth-tile-sm.jpg"></td>
+                <td id="22"><img src="src/images/earth-tile-sm.jpg"></td>
+            </tr>
+            <tr>
+                <td id="10"><img src="src/images/earth-tile-sm.jpg"></td>
+                <td id="11"><img src="src/images/earth-tile-sm.jpg"></td>
+                <td id="12"><img src="src/images/earth-tile-sm.jpg"></td>
+            </tr>
+            <tr>
+                <td id="00"><img src="src/images/earth-tile-sm.jpg"></td>
+                <td id="01"><img src="src/images/earth-tile-sm.jpg"></td>
+                <td id="02"><img src="src/images/earth-tile-sm.jpg"></td>
+            </tr>
+        </table>
+    </div>
+    
+    <br>
+    <br>
+
+    <div>
+        <form id="moveCommand">
+            <div>
+                <label for="id">Id:</label>
+                <input id="id" name="id" type="number">
+            </div>
+            <div>
+                <label for="x">X:</label>
+                <input id="x" name="x" type="number">
+            </div>
+            <div>
+                <label for="y">Y:</label>
+                <input id="y" name="y" type="number">
+            </div>
+            <input type="submit" value="Move">
+        </form>
+    </div>
+
+    <br>
+    <br>
+
+    <div>
+        <button onclick="getMap()">Get map!</button>
+    </div>
+
+</body>
+
+</html>

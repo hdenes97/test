@@ -1,0 +1,14 @@
+E:\Work\StratGame\StratGame\StratGame\bin\Debug\netcoreapp2.1\StratGame.deps.json
+E:\Work\StratGame\StratGame\StratGame\bin\Debug\netcoreapp2.1\StratGame.runtimeconfig.json
+E:\Work\StratGame\StratGame\StratGame\bin\Debug\netcoreapp2.1\StratGame.runtimeconfig.dev.json
+E:\Work\StratGame\StratGame\StratGame\bin\Debug\netcoreapp2.1\StratGame.dll
+E:\Work\StratGame\StratGame\StratGame\bin\Debug\netcoreapp2.1\StratGame.pdb
+E:\Work\StratGame\StratGame\StratGame\obj\Debug\netcoreapp2.1\StratGame.csprojAssemblyReference.cache
+E:\Work\StratGame\StratGame\StratGame\obj\Debug\netcoreapp2.1\StratGame.csproj.CoreCompileInputs.cache
+E:\Work\StratGame\StratGame\StratGame\obj\Debug\netcoreapp2.1\StratGame.RazorAssemblyInfo.cache
+E:\Work\StratGame\StratGame\StratGame\obj\Debug\netcoreapp2.1\StratGame.RazorAssemblyInfo.cs
+E:\Work\StratGame\StratGame\StratGame\obj\Debug\netcoreapp2.1\StratGame.AssemblyInfoInputs.cache
+E:\Work\StratGame\StratGame\StratGame\obj\Debug\netcoreapp2.1\StratGame.AssemblyInfo.cs
+E:\Work\StratGame\StratGame\StratGame\obj\Debug\netcoreapp2.1\StratGame.RazorTargetAssemblyInfo.cache
+E:\Work\StratGame\StratGame\StratGame\obj\Debug\netcoreapp2.1\StratGame.dll
+E:\Work\StratGame\StratGame\StratGame\obj\Debug\netcoreapp2.1\StratGame.pdb
